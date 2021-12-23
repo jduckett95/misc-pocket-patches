@@ -18,10 +18,12 @@ This patch converts the English ROM of Pokémon Crystal to `.pocket` format.
 
 Language `English`
 
-MD5: ``
+MD5: `to be added`
+
 Patch Name: `pokecrystal.ips`
 
-MD5: ``
+MD5: `to be added`
+
 Patch Name: `pokecrystal11.ips`
 
 You can [download the Analogue Pocket IPS patch here](https://drive.google.com/file/d/1njLA0TcuWg_ifjYfqt0FWILxB1dnyYj8/view).
