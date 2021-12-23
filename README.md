@@ -8,13 +8,17 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 ## Tetris + Rosy Retrospection
 
-This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris. This combination patch was created by **FrenZon** and is rehosted here with permission. 
+This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
+
+This combination patch was created by **FrenZon** and is rehosted here with permission. 
 
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
 ## Pokémon Crystal
 
 This patch converts the English ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
+
+This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)** and is hosted on their Google Drive account.
 
 Language `English`
 
