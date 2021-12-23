@@ -16,7 +16,7 @@ MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
 ## Pokémon Crystal
 
-This patch converts the English ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
+This patch converts the USA/Europe ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
 
 This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)** and is hosted on their Google Drive account.
 
