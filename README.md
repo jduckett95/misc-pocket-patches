@@ -27,3 +27,5 @@ This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy 
 This combination patch was created by **FrenZon** and is rehosted here with permission. 
 
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
