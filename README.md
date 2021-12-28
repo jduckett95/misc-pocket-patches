@@ -29,3 +29,13 @@ This combination patch was created by **FrenZon** and is rehosted here with perm
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
+
+## Tetris + Rosy Retrospection
+
+This patch converts Tetris Attack (U) (1.0) to the `.pocket` format.
+
+This patch was created by **JoseJX** and is rehosted here with permission. 
+
+MD5: `7fbda0c87af7701bb5e75c2a77bb0143`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TetrisAttack.ips).
