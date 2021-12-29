@@ -1,6 +1,6 @@
 # misc-pocket-patches
 
-## Opossum Country
+## Opossum Country
 
 This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
 
