@@ -1,5 +1,15 @@
 # misc-pocket-patches
 
+## Deadeus
+
+This patch converts the 'Regular Edition' (V1.3.8) of [Deadeus](https://izma.itch.io/deadeus?download) to `.pocket` format.
+
+This patch was created by **BestPig**.
+
+MD5: `b04f705f3e4db711560f9834a6431171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
+
 ## Opossum Country
 
 This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
@@ -23,16 +33,6 @@ Patch Name: `pokecrystal.ips` MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/pokecrystal_pocket_patches_v2.zip).
-
-## Deadeus
-
-This patch converts the 'Regular Edition' (V1.3.8) of [Deadeus](https://izma.itch.io/deadeus?download) to `.pocket` format.
-
-This patch was created by **BestPig**.
-
-MD5: `b04f705f3e4db711560f9834a6431171`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
 
 ## Tetris + Rosy Retrospection
 
