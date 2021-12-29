@@ -14,7 +14,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 This patch converts the USA/Europe ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
 
-This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)** and is hosted on their Google Drive account.
+This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
 
 Language `English`
 
@@ -22,7 +22,7 @@ Patch Name: `pokecrystal.ips` MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
 Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
 
-You can [download the Analogue Pocket IPS patch here](https://drive.google.com/file/d/1njLA0TcuWg_ifjYfqt0FWILxB1dnyYj8/view).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/pokecrystal_pocket_patches_v2.zip).
 
 ## Deadeus
 
