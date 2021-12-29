@@ -20,6 +20,16 @@ Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
 
 You can [download the Analogue Pocket IPS patch here](https://drive.google.com/file/d/1njLA0TcuWg_ifjYfqt0FWILxB1dnyYj8/view).
 
+## Deadeus
+
+This patch converts the 'Regular Edition' (V1.3.8) of [Deadeus](https://izma.itch.io/deadeus?download) to `.pocket` format.
+
+This patch was created by **BestPig**.
+
+MD5: `b04f705f3e4db711560f9834a6431171`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
+
 ## Tetris + Rosy Retrospection
 
 This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
