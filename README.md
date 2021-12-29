@@ -1,5 +1,15 @@
 # misc-pocket-patches
 
+## Opossum Country
+
+This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
+
+This patch was created by **r0ro**
+
+MD5: `5c0ed7c257219b6fab67c5f9d9ab25f8`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/opossum_country_v1.ips).
+
 ## Pokémon Crystal
 
 This patch converts the USA/Europe ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
