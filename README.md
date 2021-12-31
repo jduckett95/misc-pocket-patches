@@ -20,6 +20,14 @@ MD5: `b04f705f3e4db711560f9834a6431171`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
 
+## Gargoyle's Quest
+
+This patch was created by **r0r0**.
+
+MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Gargoyles-Quest-USA-EU-63e3f5f4b90f17bdf6d2f2aed515e248.ips).
+
 ## Opossum Country
 
 This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
