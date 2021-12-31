@@ -1,5 +1,15 @@
 # misc-pocket-patches
 
+## Dangan GB
+
+This patch converts v1.1 of [Dangan GB](https://snorpung.itch.io/dangan-gb) to `.pocket` format.
+
+This patch was created by **r0r0**.
+
+MD5: `c85e5ba3dad5aa705b96da083cdd1a1c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/danganV11.ips).
+
 ## Deadeus
 
 This patch converts the 'Regular Edition' (V1.3.8) of [Deadeus](https://izma.itch.io/deadeus?download) to `.pocket` format.
