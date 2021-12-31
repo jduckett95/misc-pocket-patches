@@ -44,6 +44,16 @@ Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/pokecrystal_pocket_patches_v2.zip).
 
+## Pokemon - Edicion Cristal
+
+This patch was created by **Linkr2**.
+
+Language: `Spanish`
+
+MD5: `8a626340f6b16ba45c1d4e07f2134875`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+
 ## Tetris + Rosy Retrospection
 
 This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
