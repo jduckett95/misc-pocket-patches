@@ -22,6 +22,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ## Gargoyle's Quest
 
+Requires the US/Europe ROM.
+
 This patch was created by **r0r0**.
 
 MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
