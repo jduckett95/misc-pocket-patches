@@ -53,3 +53,13 @@ This combination patch was created by **FrenZon** and is rehosted here with perm
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
+
+## Trip World
+
+Requires the European ROM.
+
+This patch was created by **r0r0**
+
+MD5: `c46e059a69d9b3b4b0b9d8d303c559b3`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/trip-world-eu.ips).
