@@ -1,5 +1,15 @@
 # misc-pocket-patches
 
+## Caesars Palace
+
+This patch convertes Rev 1 of the USA ROM.
+
+This patch was created by **r0r0**
+
+MD5: `9c9679e4da4daa2ee22f1c35eef03cad`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/caesars_palace_usa_rev_a_pocket-9c9679e4da4daa2ee22f1c35eef03cad.ips).
+
 ## Dangan GB
 
 This patch converts v1.1 of [Dangan GB](https://snorpung.itch.io/dangan-gb) to `.pocket` format.
