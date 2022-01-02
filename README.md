@@ -30,6 +30,16 @@ MD5: `b04f705f3e4db711560f9834a6431171`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
 
+## Densha de Go!
+
+This patch converts the Japanese ROM.
+
+This patch was created by **r0r0**.
+
+MD5: `0e63965664df3bf3217254a22422cc86`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/densha-de-go-pocket-patch-0e63965664df3bf3217254a22422cc86.ips).
+
 ## Gargoyle's Quest
 
 Requires the US/Europe ROM.
