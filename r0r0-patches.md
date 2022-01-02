@@ -35,7 +35,7 @@ Requires the USA ROM.
 
 MD5: `8fe6340c822daa9cb07c7d8ab8509751`
 
-You can [download the Analogue Pocket IPS patch here]().
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Project-S11-USA.ips).
 
 ## Trip World
 
