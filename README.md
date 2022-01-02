@@ -1,5 +1,7 @@
 # misc-pocket-patches
 
+Patches by r0r0 have been moved to [this directory](https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md). We apologise for breaking those links.
+
 ## Retail Games
 
 ### Pokémon Crystal
