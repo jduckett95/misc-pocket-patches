@@ -4,9 +4,17 @@ Patches by r0r0 have been moved to [this directory](https://github.com/jduckett9
 
 ## Retail Games
 
-### Pokémon Crystal
+### Cave Noire
 
-This patch converts the USA/Europe ROM of Pokémon Crystal to `.pocket` format. A patch is available for the original release and the first revision.
+This patch was created by **rkabir**.
+
+Language: `Japanese`
+
+MD5: `10d92861e262069ce31559e12b927aa0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/cave_noire.ips).
+
+### Pokémon Crystal
 
 This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
 
@@ -30,9 +38,25 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ## ROM Hacks
 
+### Cave Noire (English Translation)
+
+This patch applies the `.pocket` IPS patch created by **rkabir** and the [English Translation](https://www.romhacking.net/translations/1707/) created by Aeon Genesis.
+
+MD5: `10d92861e262069ce31559e12b927aa0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/cave_noire_aeon_genesis_translation.ips).
+
+### Pokémon Black
+
+This patch applies the `.pocket` IPS patch created by **janmalec** and the [Pokémon Black ROM Hack](https://www.romhacking.net/hacks/4577) created by Ax461 to Pokémon Red.
+
+MD5: `45ff4e34868e32d638f5db2fc36bdebd`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/black_pocket.ips).
+
 ### Tetris + Rosy Retrospection
 
-This patch applies the `.pocket` IPS patch created by **bestpig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
+This patch applies the `.pocket` IPS patch created by **BestPig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
 
 This combination patch was created by **FrenZon** and is rehosted here with permission. 
 
