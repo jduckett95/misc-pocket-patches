@@ -29,6 +29,14 @@ MD5: `63e3f5f4b90f17bdf6d2f2aed515e248`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Gargoyles-Quest-USA-EU-63e3f5f4b90f17bdf6d2f2aed515e248.ips).
 
+## Project S-11
+
+Requires the USA ROM.
+
+MD5: `8fe6340c822daa9cb07c7d8ab8509751`
+
+You can [download the Analogue Pocket IPS patch here]().
+
 ## Trip World
 
 Requires the European ROM.
