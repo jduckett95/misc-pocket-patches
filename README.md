@@ -4,16 +4,6 @@ Patches by r0r0 have been moved to [this directory](https://github.com/jduckett9
 
 ## Retail Games
 
-### Cave Noire
-
-This patch was created by **rkabir**.
-
-Language: `Japanese`
-
-MD5: `10d92861e262069ce31559e12b927aa0`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/cave_noire.ips).
-
 ### Pokémon Crystal
 
 This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
@@ -37,14 +27,6 @@ MD5: `8a626340f6b16ba45c1d4e07f2134875`
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
 
 ## ROM Hacks
-
-### Cave Noire (English Translation)
-
-This patch applies the `.pocket` IPS patch created by **rkabir** and the [English Translation](https://www.romhacking.net/translations/1707/) created by Aeon Genesis.
-
-MD5: `10d92861e262069ce31559e12b927aa0`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/cave_noire_aeon_genesis_translation.ips).
 
 ### Pokémon Black
 
