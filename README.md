@@ -30,11 +30,19 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ### Pokémon Black
 
-This patch applies the `.pocket` IPS patch created by **janmalec** and the [Pokémon Black ROM Hack](https://www.romhacking.net/hacks/4577) created by Ax461 to Pokémon Red.
+This patch applies the `.pocket` IPS patch created by **janmalec** and the [Pokémon Black ROM Hack](https://www.romhacking.net/hacks/4577) created by **Ax461** to Pokémon Red.
 
 MD5: `45ff4e34868e32d638f5db2fc36bdebd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/black_pocket.ips).
+
+### Pokémon Trading Card Game 2
+
+The patch applies the `.pocket` IPS patch created by **BestPig** and the [English Translation](https://www.romhacking.net/translations/1736/) created by **Artemis251** to Pokémon TCG 2.
+
+MD5: `1134862E84110443190DF460351D4575`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
 
 ### Tetris + Rosy Retrospection
 
