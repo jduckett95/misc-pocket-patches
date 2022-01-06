@@ -90,7 +90,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 This patch converts [Opossum Country](https://benjelter.itch.io/opossum-country) to `.pocket` format.
 
-This patch was created by **r0ro**
+This patch was created by **r0r0**
 
 MD5: `5c0ed7c257219b6fab67c5f9d9ab25f8`
 
