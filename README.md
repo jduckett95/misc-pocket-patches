@@ -2,7 +2,7 @@
 
 Patches by r0r0 have been moved to [this directory](https://github.com/jduckett95/misc-pocket-patches/blob/main/r0r0-patches.md). We apologise for breaking those links.
 
-## Retail Games
+## Game Boy Color
 
 ### Pokémon Crystal
 
@@ -36,22 +36,6 @@ MD5: `45ff4e34868e32d638f5db2fc36bdebd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/black_pocket.ips).
 
-### Pokémon Picross
-
-The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/5702/) created by **LeonarthCG** to Pokémon Picross.
-
-MD5: `35d2e7924408a3460e5c1a770acf3a8a`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
-
-### Pokémon Trading Card Game 2
-
-The patch applies the `.pocket` IPS patch created by **BestPig** and the [English Translation](https://www.romhacking.net/translations/1736/) created by **Artemis251** to Pokémon TCG 2.
-
-MD5: `1134862E84110443190DF460351D4575`
-
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
-
 ### Tetris + Rosy Retrospection
 
 This patch applies the `.pocket` IPS patch created by **BestPig** and the [Rosy Retrospection ROM Hack](https://www.romhacking.net/hacks/5813/) created by **Ospin** to Tetris.
@@ -61,6 +45,24 @@ This combination patch was created by **FrenZon** and is rehosted here with perm
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
+
+## Translations
+
+### Pokémon Picross
+
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/5702/) created by **LeonarthCG** to Pokémon Picross.
+
+MD5: `35d2e7924408a3460e5c1a770acf3a8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Picross%20ENG%20v1-2%20Pocket.ips).
+
+### Pokémon Trading Card Game 2
+
+The patch applies the `.pocket` IPS patch created by **BestPig** and the [English Translation](https://www.romhacking.net/translations/1736/) created by **Artemis251** to Pokémon TCG 2.
+
+MD5: `1134862E84110443190DF460351D4575`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
 
 ## Homebrew Games
 
