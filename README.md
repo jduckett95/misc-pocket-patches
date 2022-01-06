@@ -36,6 +36,14 @@ MD5: `45ff4e34868e32d638f5db2fc36bdebd`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/black_pocket.ips).
 
+### Pokémon Picross
+
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/5702/) created by **LeonarthCG** to Pokémon Picross.
+
+MD5: `35d2e7924408a3460e5c1a770acf3a8a`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
+
 ### Pokémon Trading Card Game 2
 
 The patch applies the `.pocket` IPS patch created by **BestPig** and the [English Translation](https://www.romhacking.net/translations/1736/) created by **Artemis251** to Pokémon TCG 2.
