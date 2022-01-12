@@ -64,6 +64,14 @@ MD5: `1134862E84110443190DF460351D4575`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
 
+### Sakura Wars GB
+
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://github.com/vinheim3/sakuraWars1-disasm) created by **vinheim3** to Sakura Wars GB.
+
+MD5: `70883b45a97984cb033c2b95028bef65`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Sakura%20Wars%20ENG%20Pocket.ips).
+
 ## Homebrew Games
 
 ### Dangan GB
