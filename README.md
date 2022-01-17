@@ -14,7 +14,7 @@ Patch Name: `pokecrystal.ips` MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
 Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/pokecrystal_pocket_patches_v2.zip).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal_pocket_patches_v2.zip).
 
 ### Pokemon - Edicion Cristal
 
@@ -24,7 +24,7 @@ Language: `Spanish`
 
 MD5: `8a626340f6b16ba45c1d4e07f2134875`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Pokemon_-_Edicion_Cristal_Spain_Pocket_Patch.ips).
 
 ## ROM Hacks
 
@@ -34,7 +34,7 @@ This patch applies the `.pocket` IPS patch created by **janmalec** and the [Pok√
 
 MD5: `45ff4e34868e32d638f5db2fc36bdebd`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/black_pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/black_pocket.ips).
 
 ### Tetris + Rosy Retrospection
 
@@ -44,7 +44,7 @@ This combination patch was created by **FrenZon** and is rehosted here with perm
 
 MD5: `982ed5d2b12a0377eb14bcdc4123744e`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Tetris_Combo_Patch_Rosy__Pocket.ips).
 
 ## Translations
 
@@ -54,7 +54,7 @@ The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English
 
 MD5: `35d2e7924408a3460e5c1a770acf3a8a`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Picross%20ENG%20v1-2%20Pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Picross%20ENG%20v1-2%20Pocket.ips).
 
 ### Pok√©mon Trading Card Game 2
 
@@ -62,7 +62,7 @@ The patch applies the `.pocket` IPS patch created by **BestPig** and the [Englis
 
 MD5: `1134862E84110443190DF460351D4575`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/TCG2%20English%20%2B%20Pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/TCG2%20English%20%2B%20Pocket.ips).
 
 ### Sakura Wars GB
 
@@ -70,7 +70,7 @@ The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English
 
 MD5: `70883b45a97984cb033c2b95028bef65`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Sakura%20Wars%20ENG%20Pocket.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Sakura%20Wars%20ENG%20Pocket.ips).
 
 ## Homebrew Games
 
@@ -82,7 +82,7 @@ This patch was created by **r0r0**.
 
 MD5: `c85e5ba3dad5aa705b96da083cdd1a1c`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/danganV11.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/danganV11.ips).
 
 ### Deadeus
 
@@ -92,7 +92,7 @@ This patch was created by **BestPig**.
 
 MD5: `b04f705f3e4db711560f9834a6431171`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/Deadeus-7da95971.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Deadeus-7da95971.ips).
 
 ### Opossum Country
 
@@ -102,4 +102,4 @@ This patch was created by **r0r0**
 
 MD5: `5c0ed7c257219b6fab67c5f9d9ab25f8`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/blob/main/opossum_country_v1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/opossum_country_v1.ips).
