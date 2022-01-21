@@ -48,6 +48,12 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ## Translations
 
+### For the Frog the Bell Tolls
+
+The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/1623/) created by **ryanbgstl** to Kaeru no Tame ni Kane wa Naru.
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/Frog%20English%20Pocket%20Patch.ips).
+
 ### Pokémon Picross
 
 The patch applies the `.pocket` IPS patch created by **JoseJX** and the [English Translation](https://www.romhacking.net/translations/5702/) created by **LeonarthCG** to Pokémon Picross.
