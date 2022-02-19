@@ -10,11 +10,13 @@ This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
 
 Language `English`
 
-Patch Name: `pokecrystal.ips` MD5: `9f2922b235a5eeb78d65594e82ef5dde`
+MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
-Patch Name: `pokecrystal11.ips` MD5: `301899b8087289a6436b0a241fbbb474`
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal.ips).
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal_pocket_patches_v2.zip).
+MD5: `301899b8087289a6436b0a241fbbb474`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal11.ips).
 
 ### Pokemon - Edicion Cristal
 
