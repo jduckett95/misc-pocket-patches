@@ -43,7 +43,7 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 Requires the European ROM.
 
-Patch updated by JoseJX to fix crash at end of game. 2022-02-13
+Patch updated by JoseJX to fix crash at end of game. 2022-02-19
 
 MD5: `c46e059a69d9b3b4b0b9d8d303c559b3`
 
