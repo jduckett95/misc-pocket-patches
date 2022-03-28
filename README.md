@@ -4,7 +4,7 @@ Patches by r0r0 have been moved to [this directory](https://github.com/jduckett9
 
 ## Game Boy Color
 
-### Pokémon Crystal
+### Pokémon Crystal (Ver. 1.0)
 
 This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
 
@@ -13,6 +13,12 @@ Language `English`
 MD5: `9f2922b235a5eeb78d65594e82ef5dde`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/misc-pocket-patches/raw/main/pokecrystal.ips).
+
+### Pokémon Crystal (Ver. 1.1)
+
+This patch was created by **[Zhuowei Zhang](https://twitter.com/Zhuowei)**.
+
+Language `English`
 
 MD5: `301899b8087289a6436b0a241fbbb474`
 
